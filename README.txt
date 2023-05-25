@@ -5,6 +5,7 @@ ______________________________________________________
 ______________________________________________________
 
 Control Flow Graph
+<img src="images/SILab2.drawio.jpg" alt="Image Description">
 
 ![Control Flow Graph](https://github.com/Ivana99/SI_2023_lab2_173172/blob/master/SILab2.drawio.png?raw=true)
 
