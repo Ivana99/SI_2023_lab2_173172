@@ -8,7 +8,7 @@ Control Flow Graph
 
 ![Control Flow Graph](SI_2023_lab2_173172/SILab2.drawio.png)
 SILab2.drawio.png
-
+https://github.com/Ivana99/SI_2023_lab2_173172/blob/master/SILab2.drawio.png?raw=true
 Цикломатска комплексност
 
 - Цикломатска комплексност на овој код е 10 , ја добив така што ги избројав регионите од Control
