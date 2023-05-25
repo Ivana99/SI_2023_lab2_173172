@@ -5,9 +5,9 @@ ______________________________________________________
 ______________________________________________________
 
 Control Flow Graph
-<img src="https://github.com/Ivana99/SI_2023_lab2_173172/blob/master/SILab2.drawio.png" alt="Image Description">
+<img src="github.com/Ivana99/SI_2023_lab2_173172/blob/master/SILab2.drawio.png" alt="Image Description">
 
-![Control Flow Graph](https://github.com/Ivana99/SI_2023_lab2_173172/blob/master/SILab2.drawio.png?raw=true)
+![Control Flow Graph](httpsgithub.com/Ivana99/SI_2023_lab2_173172/blob/master/SILab2.drawio.png?raw=true)
 
 Цикломатска комплексност
 
