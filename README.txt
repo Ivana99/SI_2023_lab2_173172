@@ -6,7 +6,7 @@ ______________________________________________________
 
 Control Flow Graph
 
-(SI_2023_lab2_173172/SILab2.drawio.png)
+![Control Flow Graph](SI_2023_lab2_173172/SILab2.drawio.png)
 
 Цикломатска комплексност
 
