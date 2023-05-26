@@ -12,7 +12,7 @@ Control Flow Graph
 Цикломатска комплексност
 
 - Цикломатска комплексност на овој код е 11 , ја добив така што ги избројав регионите од Control
-Flow графикот + 1.
+Flow графикот + 1. 
 
 Multiple Condition критериумот за условот
 if (user==null || user.getPassword()==null || user.getEmail()==null).
